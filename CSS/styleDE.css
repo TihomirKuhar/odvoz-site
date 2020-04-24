@@ -1,0 +1,18 @@
+@media screen and (max-width: 768px) {
+    #myNavbar{
+        font-size: 9px !important;
+    }
+    #flagDE{
+        position: fixed;
+        left: 35px;
+        top: 21px;
+    }
+    #flagEN{
+        position: fixed;
+        left: 75px;
+        top: 21px;
+    }
+    .logoImgStyle{
+        display: none !important;
+    }
+}
